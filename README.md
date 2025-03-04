@@ -70,9 +70,6 @@ This will open the webcam and start detecting faces with or without masks.
 ## Contributing
 Feel free to fork this repository and make improvements. If you have any suggestions, submit a pull request!
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For any queries, contact:
 - **Name:** Apexa Rami 
