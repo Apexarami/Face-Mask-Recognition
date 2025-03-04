@@ -75,6 +75,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any queries, contact:
-- **Name:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername/)
+- **Name:** Apexa Rami 
+- **Email:** apexarami2000@gmail.com
+- **GitHub:** https://github.com/Apexarami
